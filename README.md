@@ -80,7 +80,7 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls, Perso
 - Dynamic environments via World Partition and Chaos Destruction, reacting to player actions and physics forces.
 - Pre-production planning with Kanban (Miro) and UML diagrams.
 
-[View Repository](#) — *make this repo public or remove the link*
+[View Repository](#)
 
 ---
 
