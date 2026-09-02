@@ -29,7 +29,9 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls, Perso
 **Role:** Gameplay Programmer / Combat Designer (Freelance)
 **Tech:** Unreal Engine 5, Blueprints, Behavior Trees, Niagara, Motion Warping
 
-> *[Embed: (https://store.steampowered.com/app/4402330/The_9th_Dragon/?l=spanish) (https://www.youtube.com/watch?v=d5sHUQhCVeY)]*
+**[▶ Watch the trailer](https://www.youtube.com/watch?v=d5sHUQhCVeY)** · **[View on Steam](https://store.steampowered.com/app/4402330/The_9th_Dragon/)**
+
+[![The 9th Dragon](https://img.youtube.com/vi/d5sHUQhCVeY/maxresdefault.jpg)](https://www.youtube.com/watch?v=d5sHUQhCVeY)
 
 📖 **Description:** A brutal, tactical beat-'em-up set in Kowloon Walled City. Hand-to-hand combat combined with firearms, stamina management and environmental finishers.
 
