@@ -22,7 +22,7 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls, Perso
 
 # 🏆 Featured Projects
 
-## 🐉 The 9th Dragon — Shipped Commercial Title
+## 🐉 The 9th Dragon — Unreleased Commercial Title
 
 **Developer:** FrameOver · **Publisher:** Headup Games
 **Platforms:** PC · PlayStation 5 · Xbox Series X|S · Nintendo Switch
