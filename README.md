@@ -53,8 +53,9 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls, Perso
 
 **Role:** AI Programmer & Combat Designer · **Tech:** Unreal Engine 5, C++, GAS, Behavior Trees
 
-[Official Trailer](https://youtu.be/yjipXpGEbDo)
-[![Ghunter](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3156000/5105952d0a260f7972936f0886a1e2f8bd59385f/capsule_616x353.jpg?t=1736967989)]
+**[▶ Official Trailer](https://youtu.be/yjipXpGEbDo)**
+
+[![Ghunter](https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3156000/5105952d0a260f7972936f0886a1e2f8bd59385f/capsule_616x353.jpg?t=1736967989)](https://youtu.be/yjipXpGEbDo)
 
 
 📖 An action-adventure cooking game. Uncover the mysteries of Garcosa, hunt your prey, and save the King with your dishes.
