@@ -67,7 +67,7 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls, Perso
 - Created modular library tasks allowing rapid iteration of enemy variants.
 - Iterated combat difficulty from structured playtesting, adjusting behaviours, timing windows and stat scaling.
 
-[View Repository](https://github.com/maltrak007/GonzaloLinanGhunterCode) · [Full Project](https://github.com/gamedevmaster/gamedevmaster_g3_2324/tree/main)
+[View Repository](https://github.com/maltrak007/GonzaloLinanGhunterCode) · [Full Project](https://github.com/IsFriskis/ghuntercode)
 
 ---
 
