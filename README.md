@@ -16,7 +16,7 @@ Gameplay programmer and technical designer with a shipped commercial title on PC
 **Languages:** C++, C#, Java, PL/SQL
 **Specialties:** Combat design, enemy AI and Behavior Trees, Gameplay Ability System, game feel, data-driven architecture
 
-My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls, Persona 5, Inazuma Eleven.
+My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, Persona 5, The Witcher 3.
 
 ---
 
