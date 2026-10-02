@@ -112,6 +112,8 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 
 [Chaos Destruction](https://github.com/maltrak007/Unreal-Physics-Exercises) — Unreal Engine physics experiments.
 
+[Unity Game Jam](https://github.com/IsFriskis/utad-unity-jam) - Unity. In charge of developing the AI for the enemies in the game.
+
 ---
 
 ## 🎓 Education
