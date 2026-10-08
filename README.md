@@ -105,7 +105,10 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 [View Repository](https://github.com/maltrak007/Monster-Evicter)
 
 ---
+## Game Jams
+[[!Skull Dungeon](https://media.githubusercontent.com/media/ccuevasbalinas/sev-gamejam-2026/main/Docs/Images/skull_dungeon_banner.png)](https://github.com/ccuevasbalinas/sev-gamejam-2026)
 
+---
 ## Educational Projects
 
 [UI Project](https://github.com/maltrak007/Unreal-UI-Project) — Unreal Engine. Industry-standard UI: skill tree, dynamic crosshair, weapon reload bar, ammo indicators, danger warnings.
