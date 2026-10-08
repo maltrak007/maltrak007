@@ -73,8 +73,6 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 
 ## 🥊 Hobo-League — Solo Project (In Progress)
 
-![Hobo-League](images/hobo-league.jpg)
-
 **Third-Person Multiplayer** · **Tech:** Unreal Engine 5, C++, GAS + Network Replication, Chaos Destruction
 
 📖 Stand up against sadistic machines through the pain of the trials and earn your freedom.
@@ -93,7 +91,6 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 
 ## 🪄 Monster Evicter — Solo Project
 
-![Monster Evicter](images/monster-evicter.gif)
 
 **Third-Person Action** · **Tech:** Unity, C#
 
