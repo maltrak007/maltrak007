@@ -73,6 +73,8 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 
 ## 🥊 Hobo-League — Solo Project (In Progress)
 
+![Hobo-League](images/hobo-league.jpg)
+
 **Third-Person Multiplayer** · **Tech:** Unreal Engine 5, C++, GAS + Network Replication, Chaos Destruction
 
 📖 Stand up against sadistic machines through the pain of the trials and earn your freedom.
@@ -91,6 +93,8 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 
 ## 🪄 Monster Evicter — Solo Project
 
+![Monster Evicter](images/monster-evicter.gif)
+
 **Third-Person Action** · **Tech:** Unity, C#
 
 📖 A fast-paced game where you play a mage "evicting" enemies by exploiting their weaknesses with spells against the clock.
@@ -105,9 +109,23 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 [View Repository](https://github.com/maltrak007/Monster-Evicter)
 
 ---
-## Game Jams
-[[!Skull Dungeon](https://media.githubusercontent.com/media/ccuevasbalinas/sev-gamejam-2026/main/Docs/Images/skull_dungeon_banner.png)](https://github.com/ccuevasbalinas/sev-gamejam-2026)
+## 🕹️ Game Jams
 
+### Skull Dungeon — Sevilla Game Jam 2026
+
+[![Skull Dungeon](https://media.githubusercontent.com/media/ccuevasbalinas/sev-gamejam-2026/main/Docs/Images/skull_dungeon_banner.png)](https://github.com/ccuevasbalinas/sev-gamejam-2026)
+
+📖 **Description:** It's an endless scroller in which you have to switch between dimensions to evade the obstacles
+
+🧑‍💻 **Role:** Game Design & Programming
+
+💻 **Tech:** Unity 6 & C#
+
+🛠️ **Contributions:**
+- Designed the main core loop of gameplay
+- Programmed the locomotion, managers & abilities for the player
+
+[View Repository](https://github.com/ccuevasbalinas/sev-gamejam-2026)
 ---
 ## Educational Projects
 
