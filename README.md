@@ -85,7 +85,7 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 - Dynamic environments via World Partition and Chaos Destruction, reacting to player actions and physics forces.
 - Pre-production planning with Kanban (Miro) and UML diagrams.
 
-[View Repository]((https://github.com/maltrak007/HoboLeagueProject))
+[View Repository](https://github.com/maltrak007/HoboLeagueProject)
 
 ---
 
