@@ -89,7 +89,7 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 
 ---
 
-## 🪄 Monster Evicter — Solo Project
+## 🪄 Monster Evicter — Master Final Project
 
 
 **Third-Person Action** · **Tech:** Unity, C#
