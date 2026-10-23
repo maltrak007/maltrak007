@@ -51,7 +51,7 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 
 ## 🎮 Ghunter — Best University Game, BIG Conference Bilbao · Second Place, Guerrilla Games Festival
 
-**Role:** AI Programmer & Combat Designer · **Tech:** Unreal Engine 5, C++, GAS, Behavior Trees
+**Role:** AI Programmer & Combat Designer · **Tech:** Unreal Engine 5, C++, GAS, Behavior Trees, Motion Warping, EQS
 
 **[▶ Official Trailer](https://youtu.be/yjipXpGEbDo)**
 
@@ -66,6 +66,7 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 - Developed custom behaviour nodes influenced by environmental hazards and enemy stats.
 - Created modular library tasks allowing rapid iteration of enemy variants.
 - Iterated combat difficulty from structured playtesting, adjusting behaviours, timing windows and stat scaling.
+- Created enemy variants with each own unique ability that test the player skill.
 
 [View Repository](https://github.com/maltrak007/GonzaloLinanGhunterCode) · [Full Project](https://github.com/IsFriskis/ghuntercode)
 
@@ -92,7 +93,7 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 ## 🪄 Monster Evicter — Master Final Project
 
 
-**Third-Person Action** · **Tech:** Unity, C#
+**Third-Person Action** · **Tech:** Unity, C#, FSM, DOTS
 
 📖 A fast-paced game where you play a mage "evicting" enemies by exploiting their weaknesses with spells against the clock.
 
@@ -121,6 +122,7 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 🛠️ **Contributions:**
 - Designed the main core loop of gameplay
 - Programmed the locomotion, managers & abilities for the player
+- Creation & Balance of the running stages adding obstacles and measuring distances between them for a fair but challenging experience
 
 [View Repository](https://github.com/ccuevasbalinas/sev-gamejam-2026)
 ---
@@ -128,7 +130,7 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 
 [UI Project](https://github.com/maltrak007/Unreal-UI-Project) — Unreal Engine. Industry-standard UI: skill tree, dynamic crosshair, weapon reload bar, ammo indicators, danger warnings.
 
-[Chaos Destruction](https://github.com/maltrak007/Unreal-Physics-Exercises) — Unreal Engine physics experiments.
+[Chaos Destruction](https://github.com/maltrak007/Unreal-Physics-Exercises) — Unreal Engine physics experiments with Chaos.
 
 [Unity Game Jam](https://github.com/IsFriskis/utad-unity-jam) - Unity. In charge of developing the AI for the enemies in the game.
 
@@ -141,7 +143,6 @@ My top 5 games of all time: Fallout New Vegas, The Last of Us, Dark Souls III, P
 | Master's Degree in Videogame Programming | U-TAD, Madrid |
 | Programming with Graphic Engine: Unity | RENDR, Seville |
 | Higher Technician in Cross-Platform Application Development | CEU San Pablo, Seville |
-
 ---
 
 **Open to gameplay programming and combat/technical design roles.** Remote or relocation within the EU.
