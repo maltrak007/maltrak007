@@ -1,4 +1,4 @@
-# Gonzalo Liñán Aldana — Gameplay Programmer & Technical Designer
+# Gonzalo Liñán Aldana — Gameplay Programmer & Technical Designer - Specialized in Combat
 
 *"Lifelong gamer turned creator, dedicated to crafting unique experiences. I aim to contribute to the gaming world by developing titles that offer the same level of immersion and joy that define who I am today."*
 
