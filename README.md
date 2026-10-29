@@ -4,7 +4,7 @@
 
 **Combat systems · Enemy AI · Game feel** — Unreal Engine 5 · C++ · Blueprints
 
-[LinkedIn](https://www.linkedin.com/in/gonzalo-liñan-aldana-934283221/) · [Steam](https://steamcommunity.com/id/ItsGonso/) · gonza7108@gmail.com
+[LinkedIn](https://www.linkedin.com/in/gonzalo-liñan-aldana-934283221/) · [Steam](https://steamcommunity.com/id/ItsGonso/) · [Portfolio](https://gonzalolinan.com) ·gonza7108@gmail.com
 
 ---
 
